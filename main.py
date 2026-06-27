@@ -50,7 +50,7 @@ IVASMS_DASHBOARD = {
 
 USERNAME = "MAFYA123"
 PASSWORD = "Bn_1411"
-BOT_TOKEN = "8805238965:AAFRJu3MX-QgvBE_SLCQvLiwcAWxL1r9AU8"  # Replace with your bot token
+BOT_TOKEN = "8239745105:AAHcCzGLxhHK8VDw9mSQUqal-dZA7ICrA4E"  # Replace with your bot token
 CHAT_IDS = [
     "-1004456953335",  # Replace with your group chat ID
 ]
